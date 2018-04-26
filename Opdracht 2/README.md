@@ -40,7 +40,8 @@ To heavy to little effect, so removed it.
 This was a break in the natural flow of the website.
 
 => Solved it by orienting the gallery vertically.
-   Also added a function to switch between a grid and list view.
+
+=> Also added a function to switch between a grid and list view.
 
 #### Header on gallery images where aligned to the bottom
 Problem is that the animation - when opening an image - was to cluttered and had to much movement.
