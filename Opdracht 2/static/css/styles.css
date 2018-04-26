@@ -76,7 +76,7 @@ a:hover {
 /* TRANSITIONS */
 /***************/
 
-a, #menu, #menu span, #menu span:before, #menu span:after {
+a, #menu, span, #menu span:before, #menu span:after {
 	transition: all 120ms ease;
 }
 nav.active ul, header, figure a {
@@ -256,7 +256,8 @@ body>nav a:hover {
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-image: url(../img/macbook13.png);  
+	background-image: url(../img/macbook13.png);
+	background-image: url(../img/macbook13.svg);  
 }
 
 /********/
@@ -430,16 +431,16 @@ table:nth-of-type(4) td {
 	line-height: 1rem;
 }
 table:nth-of-type(4) td:nth-of-type(1) {
-	color: rgb(60,200,150);
-	border-left: 2px solid rgb(60,200,150);
+	color: rgb(255,95,85);
+	border-left: 2px solid rgb(255,95,85);
 }
 table:nth-of-type(4) td:nth-of-type(2) {
 	color: rgb(65,160,240);
 	border-left: 2px solid rgb(65,160,240);
 }
 table:nth-of-type(4) td:nth-of-type(3) {
-	color: rgb(255,95,85);
-	border-left: 2px solid rgb(255,95,85);
+	color: rgb(60,200,150);
+	border-left: 2px solid rgb(60,200,150);
 }
 table:nth-of-type(1) td:after {
 	background-color: rgb(255,95,85);

@@ -71,5 +71,10 @@ Tests showed it wasn't clear wheter it's a button or not
 
 => Simply remove the outlines
 
+### TODO
 
+- Gallery bug fix, class should be removed when exiting current gallery item of current detail view
+- Add actual content (it's a portfolio, so might come in handy)
+- Rewrite javascript
+- Keep testing cross-browser/device
 
