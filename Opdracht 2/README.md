@@ -35,6 +35,11 @@ To create a minimalistic design I implemented this principle by hiding the meta 
 To heavy to little effect, so removed it.
 => Changed it to a constantly changing gradient.
 
+#### Gallery images where horizontally oriented
+This was a break in the natural flow of the website.
+=> Solved it by orienting the gallery vertically.
+   Also added a function to switch between a grid and list view.
+
 #### Header on gallery images where aligned to the bottom
 Problem is that the animation - when opening an image - was to cluttered and had to much movement.
 => Solved it by aligning the header to the top. The content slides in from the bottom
@@ -47,9 +52,13 @@ Tests showed it wasn't clear if the button was to open another section (detail) 
 There's no clear indication what's about to happen when pushing this button
 => Solved it by sliding in the content partially - only 5% of the height - just enough to see the title and to know what to expect (the detail part is going to slide up when I push this button)
 
-#### Arrows on gallery images to show detail content
+#### Arrows on gallery images to show detail content are ambiguous
 Tests showed it wasn't clear if the button was to open another section (detail) or to close the gallery image itself.
 => Used a 'information' icon in the right top corner to prevent confusion.
+
+#### Tests show the skills (HTML, CSS, JS) in the CV section look like buttons
+Tests showed it wasn't clear wheter it's a button or not
+=> Simply remove the outlines
 
 
 
