@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2406 1471" style="enable-background:new 0 0 2406 1471;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9D9D9D;}
+	.st1{fill:#4D4D4D;}
+	.st2{fill:#2D2D2D;}
+	.st3{fill:#383838;}
+	.st4{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st5{fill:#838383;}
+	.st6{fill:#7F7F7F;}
+</style>
+<title>MacBook Pro TouchBar 13 inches Space Gray</title>
+<desc>Created with Sketch.</desc>
+<g id="Mac">
+	<g id="MacBook-Pro-Touch-Bar-13-inches" transform="translate(-798.000000, -265.000000)">
+		<g id="MacBook-Pro-TouchBar-13-inches-Space-Gray" transform="translate(798.000000, 265.000000)">
+			<g id="MacBook-Pro-13-Screen" transform="translate(182.000000, 0.000000)">
+				<g id="Frames">
+					<path id="Metal-Frame" class="st0" d="M67,0h1906.8c37,0,67,30,67,67v1296.9c0,37-30,67-67,67H67c-37,0-67-30-67-67V67
+						C0,30,30,0,67,0z"/>
+					<path id="Plastic-Band" class="st1" d="M66,4h1908.8c34.2,0,62,27.8,62,62v1298.9c0,34.2-27.8,62-62,62H66
+						c-34.2,0-62-27.8-62-62V66C4,31.8,31.8,4,66,4z"/>
+					<path id="Black-Frame" class="st2" d="M67,8h1906.8c32.6,0,59,26.4,59,59v1296.9c0,32.6-26.4,59-59,59H67
+						c-32.6,0-59-26.4-59-59V67C8,34.4,34.4,8,67,8z"/>
+					<path id="Plastic-Band_1_" class="st3" d="M2032.8,1331v32.9c0,32.6-26.4,59-59,59H67c-32.6,0-59-26.4-59-59V1331H2032.8z"/>
+				</g>
+				<g>
+					<g>
+						<rect id="XMLID_1_" x="56.9" y="90" class="st2" width="1930" height="1210"/>
+					</g>
+					<g>
+						<g>
+							<defs>
+								<rect id="SVGID_1_" x="56.9" y="90" width="1930" height="1210"/>
+							</defs>
+							<clipPath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+							</clipPath>
+							<g class="st4">
+								
+									<image style="overflow:visible;enable-background:new    ;" width="8054" height="5037" xlink:href="2BD3D3EEB0F44514.jpeg"  transform="matrix(0.2414 0 0 0.2414 49.9851 85.5234)">
+								</image>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="MacBook-Pro-13-Body" transform="translate(0.000000, 1391.000000)">
+				<path id="Bottom-Body" class="st5" d="M0,39.5h2405.8c-18.8,20.6-86,39.6-134.2,39.6H134.2C86,79.2,18.8,60.1,0,39.5z"/>
+				<polygon id="Top-Body" class="st0" points="0,39.6 0,0 2405.8,0 2405.8,39.6 				"/>
+				<path id="Hollow" class="st6" d="M1027.5,30.2c-13.2,0-26.8-15.5-26.8-30h406.5c0,14.4-13.7,30-26.8,30H1027.5L1027.5,30.2z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
