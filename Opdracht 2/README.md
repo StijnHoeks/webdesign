@@ -17,10 +17,6 @@ Marie is visiting my portfolio website and wants to see wat kind of projects I'v
 #### USER SCENARIO:
 Erik is looking to hire a new web developer, he hopes my portfolio could give him some insight in wether i'd be a suitable candidate.
 
-#### TEST 1: Céline
-
-URL: https://github.com/StijnHoeks/webdesign/blob/master/Opdracht%202/Usability%20Test_Céline.mp4
-
 ### DESIGN PRINCIPLE 
 
 #### PRINCIPLE #1: Clarity is job #1
